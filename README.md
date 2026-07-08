@@ -4,7 +4,7 @@
 
 ### Software Engineer specializing in Flutter Mobile App Development
 
-I design and build mobile apps, websites, and custom software for businesses that need reliable, production-ready work.
+4+ years of experience building and shipping 8 production apps on Google Play Store and Apple App Store.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-appsmith--mahmudul.vercel.app-3b82f6?style=for-the-badge)](https://appsmith-mahmudul.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801977691303)
@@ -16,12 +16,17 @@ I design and build mobile apps, websites, and custom software for businesses tha
 
 ### Currently
 
-🔭 Building and maintaining **AppSmith Mahmudul** — my business website, with a working contact form, project case studies, and ongoing SEO improvements.
+🔭 Software Engineer (Mobile) at **Analyzen Bangladesh Limited** — leading cross-platform mobile app development.
+
+### Experience
+
+- **Software Engineer (Mobile)** — Analyzen Bangladesh Limited · *Dec 2024 — Present*
+- **Mobile Application Developer** — Limerick Resources Limited · *Apr 2022 — Nov 2024*
 
 ### What I Do
 
 - 📱 **Cross-Platform App Development** — Android & iOS apps from a single Flutter codebase
-- 🔗 **Backend & API Integration** — Firebase & REST API solutions
+- 🔗 **Backend & API Integration** — Firebase, REST APIs, and payment gateways (bKash, SSLCOMMERZ, Stripe)
 - 🎨 **UI/UX** — Clean, modern interfaces
 - 💻 **Websites & Custom Software** — For businesses that need more than an app
 
@@ -37,14 +42,26 @@ I design and build mobile apps, websites, and custom software for businesses tha
 
 </div>
 
-### Featured Project
+### Featured Case Study
 
 **[TutorBook BD](https://appsmith-mahmudul.vercel.app/projects/tutorbook-bd)** — A coaching-center management platform that brings students, fees, attendance, notices, and reports all into one place. Built with Flutter and Firebase.
 
-### Published On
+### Published Apps
 
-<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
-<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" />
+| App | Description | Links |
+|---|---|---|
+| **Creed** | Muslim Commerce Platform & Global Business Directory | [Android](https://play.google.com/store/apps/details?id=app.ourcreed.shop) · [iOS](https://apps.apple.com/us/app/creed-muslim-commerce-platform/id6747739980) |
+| **Nafs Cart** | E-commerce shopping app | [iOS](https://apps.apple.com/us/app/nafs-cart-e-commerce/id6756256618) |
+| **OrderWala** | Retailer Order Management System | [Android](https://play.google.com/store/apps/details?id=com.order.wala.app) |
+| **DSR MDO** | Daily Sales Representative & Market Development | [Android](https://play.google.com/store/apps/details?id=com.limerickbd.dsr_so_app) |
+| **Boichitro** | Digital Bookstore & e-Reading App | — |
+| **HRM** | Human Resource & Payroll Management | — |
+| **Distributor** | Distributor Onboarding & Stock Tracking | [Android](https://play.google.com/store/apps/details?id=com.limerickbd.distributor) |
+| **BDDoctor** | Doctor & Hospital Finder with Geo-search | [Android](https://play.google.com/store/apps/details?id=com.bddoctor.bdboctor) |
+
+### Education
+
+🎓 B.Sc. in Software Engineering — Daffodil International University (2022)
 
 ---
 

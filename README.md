@@ -1,34 +1,32 @@
 <div align="center">
 
-# Hi, I'm Mahmudul Hasan 👋
+# Md Mahmudul Hasan
 
-### Software Engineer specializing in Flutter Mobile App Development
+### Mobile Application Developer (Flutter)
 
-4+ years of experience building and shipping 8 production apps on Google Play Store and Apple App Store.
+Flutter Mobile Application Developer with 4+ years of experience building and shipping 8 production apps on Google Play Store and Apple App Store. Skilled in Flutter, Dart, Bloc/GetX, and Firebase, with hands-on experience integrating third-party SDKs including bKash, SSLCOMMERZ, and Agora.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-appsmith--mahmudul.vercel.app-3b82f6?style=for-the-badge)](https://appsmith-mahmudul.vercel.app)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801977691303)
-[![Email](https://img.shields.io/badge/Email-appsmithmahmudul%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appsmithmahmudul@gmail.com)
+📱 +880 1758-691303 · ✉️ swe.mahmud@gmail.com
 
 </div>
 
 ---
 
-### Currently
-
-🔭 Software Engineer (Mobile) at **Analyzen Bangladesh Limited** — leading cross-platform mobile app development.
-
-### Experience
+### Professional Experience
 
 - **Software Engineer (Mobile)** — Analyzen Bangladesh Limited · *Dec 2024 — Present*
+  Leading cross-platform mobile app development for a software firm, focusing on scalable solutions and optimal performance.
 - **Mobile Application Developer** — Limerick Resources Limited · *Apr 2022 — Nov 2024*
+  Engineered end-to-end mobile applications that automated workflows and enhanced service delivery.
 
-### What I Do
+### Areas of Expertise
 
-- 📱 **Cross-Platform App Development** — Android & iOS apps from a single Flutter codebase
-- 🔗 **Backend & API Integration** — Firebase, REST APIs, and payment gateways (bKash, SSLCOMMERZ, Stripe)
-- 🎨 **UI/UX** — Clean, modern interfaces
-- 💻 **Websites & Custom Software** — For businesses that need more than an app
+- **Mobile Development:** Flutter, Dart, GetX, Bloc (State Management)
+- **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions)
+- **Third-Party Integrations:** Agora SDK, Google Maps API, bKash SDK, SSLCOMMERZ, Stripe, Facebook SDK
+- **UI/UX & Design:** Figma, Responsive UI, Clean Architecture
+- **Version Control & Collaboration:** GitHub, GitLab, Jira, ClickUp
+- **Deployment & Distribution:** Google Play Console, App Store Connect
 
 ### Tech Stack
 
@@ -42,11 +40,7 @@
 
 </div>
 
-### Featured Case Study
-
-**[TutorBook BD](https://appsmith-mahmudul.vercel.app/projects/tutorbook-bd)** — A coaching-center management platform that brings students, fees, attendance, notices, and reports all into one place. Built with Flutter and Firebase.
-
-### Published Apps
+### Key Projects (Published on Play Store & App Store)
 
 | App | Description | Links |
 |---|---|---|
@@ -61,12 +55,21 @@
 
 ### Education
 
-🎓 B.Sc. in Software Engineering — Daffodil International University (2022)
+- **B.Sc. in Software Engineering** — Daffodil International University · 2022 · GPA 3.52
+- **Higher Secondary Certificate (Science)** — Jashore Shikkha Board · 2018 · GPA 3.67
+- **Secondary School Certificate (Science)** — Manirampur, Jashore · 2016 · GPA 4.67
+
+### Training & Certifications
+
+- Mobile Application Development Courses — BASIS-SEIP Project, Kawran Bazar, Dhaka
+- Flutter & Dart – The Complete Guide (Udemy)
+- Flutter BLoC (Udemy)
+- CCNA — American International University Bangladesh
 
 ---
 
 <div align="center">
 
-📍 Mohammadpur, Dhaka, Bangladesh · Available for freelance work
+📍 Mohammadpur, Dhaka, Bangladesh
 
 </div>

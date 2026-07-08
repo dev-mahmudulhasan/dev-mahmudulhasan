@@ -1,46 +1,124 @@
 <div align="center">
 
-# Md Mahmudul Hasan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Mahmudul%20Hasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Mobile%20Application%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### Mobile Application Developer (Flutter)
+<br/>
 
-Flutter Mobile Application Developer with 4+ years of experience building and shipping 8 production apps on Google Play Store and Apple App Store. Skilled in Flutter, Dart, Bloc/GetX, and Firebase, with hands-on experience integrating third-party SDKs including bKash, SSLCOMMERZ, and Agora.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+Firebase+Developer;4%2B+Years+Building+Production+Apps;8+Apps+Shipped+on+Play+Store+%26+App+Store;bKash+%7C+SSLCOMMERZ+%7C+Agora+SDK+Integrations" alt="Typing SVG" />
 
-📱 +880 1758-691303 · ✉️ swe.mahmud@gmail.com
+<br/><br/>
+
+[![Phone](https://img.shields.io/badge/+880_1758--691303-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801758691303)
+[![Email](https://img.shields.io/badge/swe.mahmud@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swe.mahmud@gmail.com)
+[![Location](https://img.shields.io/badge/Dhaka,_Bangladesh-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-### Professional Experience
+## 👨‍💻 About Me
 
-- **Software Engineer (Mobile)** — Analyzen Bangladesh Limited · *Dec 2024 — Present*
-  Leading cross-platform mobile app development for a software firm, focusing on scalable solutions and optimal performance.
-- **Mobile Application Developer** — Limerick Resources Limited · *Apr 2022 — Nov 2024*
-  Engineered end-to-end mobile applications that automated workflows and enhanced service delivery.
+Flutter Mobile Application Developer with **4+ years of experience** building and shipping **8 production apps** on Google Play Store and Apple App Store. Skilled in Flutter, Dart, Bloc/GetX, and Firebase, with hands-on experience integrating third-party SDKs including bKash, SSLCOMMERZ, and Agora.
 
-### Areas of Expertise
+---
 
-- **Mobile Development:** Flutter, Dart, GetX, Bloc (State Management)
-- **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions)
-- **Third-Party Integrations:** Agora SDK, Google Maps API, bKash SDK, SSLCOMMERZ, Stripe, Facebook SDK
-- **UI/UX & Design:** Figma, Responsive UI, Clean Architecture
-- **Version Control & Collaboration:** GitHub, GitLab, Jira, ClickUp
-- **Deployment & Distribution:** Google Play Console, App Store Connect
+## 💼 Professional Experience
 
-### Tech Stack
+```
+2024 ─────────────────────────────────────────────► Present
+ │
+ ├── Software Engineer (Mobile) — Analyzen Bangladesh Limited
+ │   Dec 2024 – Present
+ │   Leading cross-platform mobile app development for a software firm,
+ │   focusing on scalable solutions and optimal performance.
+ │
+2022 ──────────────────── 2024
+ │
+ └── Mobile Application Developer — Limerick Resources Limited
+     Apr 2022 – Nov 2024
+     Engineered end-to-end mobile applications that automated
+     workflows and enhanced service delivery.
+```
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,androidstudio,apple,git,figma,html,css&theme=dark" alt="Tech stack" />
+---
 
-### Contribution Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mahmudulhasan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=dev-mahmudulhasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-mahmudulhasan&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-mahmudulhasan&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mahmudulhasan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
-### Key Projects (Published on Play Store & App Store)
+> ⚠️ **নোট ১:** আগে ব্যবহৃত `github-readme-stats.vercel.app` (অরিজিনাল সার্ভিস) মালিক পক্ষ থেকে বন্ধ (paused) রাখা হয়েছে, তাই সেই লিংকের ছবিগুলো ভাঙা দেখাচ্ছিল। উপরে এখন কমিউনিটি-চালিত সচল একটা mirror (`github-readme-stats-fast.vercel.app`) ব্যবহার করা হয়েছে, যেটা এই মুহূর্তে কাজ করছে। তবে এটাও একটা ফ্রি/শেয়ার্ড সার্ভিস, ভবিষ্যতে ট্রাফিক বেশি হলে সাময়িক ডাউন হতে পারে।
+>
+> ⚠️ **নোট ২:** পাই চার্ট ও ভাষার পরিসংখ্যান (top-langs) নির্ভর করে আপনার **পাবলিক GitHub রিপোজিটরিতে** থাকা কোডের ভাষার উপর — যদি বেশিরভাগ প্রজেক্ট প্রাইভেট থাকে, চার্ট ফাঁকা বা ভুল দেখাতে পারে। প্রাইভেট রিপো কাউন্ট করাতে চাইলে নিজের একটা Vercel instance ডিপ্লয় করে GitHub Personal Access Token যোগ করতে হবে — এটা কেবল আপনার নিজের প্রোফাইলে দেখা যাবে, অন্যরা শুধু পাবলিক ডেটাই দেখবে।
+>
+> 💡 **স্থায়ী সমাধান চাইলে:** এই সার্ভিসগুলো যেকোনো সময় বন্ধ হয়ে যেতে পারে (এটা বারবার হয়েছে অতীতে)। সবচেয়ে নির্ভরযোগ্য উপায় হলো নিজের GitHub অ্যাকাউন্ট থেকে [github-readme-stats-fast](https://github.com/Pranesh-2005/github-readme-stats-fast) রিপোটা fork করে নিজের Vercel অ্যাকাউন্টে ফ্রি ডিপ্লয় করে ফেলা (৫-১০ মিনিটের কাজ) — তাহলে সার্ভিসটা শুধু আপনার নিয়ন্ত্রণে থাকবে, ডাউনটাইমের ঝুঁকি অনেক কমে যাবে।
+
+---
+
+## 🧠 Skill Distribution
+
+<div align="center">
+
+```mermaid
+pie showData
+    title Core Technical Skills
+    "Flutter / Dart" : 40
+    "Firebase (Auth, Firestore, Functions)" : 15
+    "State Mgmt (Bloc/GetX)" : 15
+    "3rd-Party SDKs (bKash, Agora, SSLCOMMERZ)" : 15
+    "UI/UX (Figma, Clean Arch)" : 10
+    "DevOps (Play Console, App Store)" : 5
+```
+
+</div>
+
+---
+
+## 🛠️ Areas of Expertise
+
+| Category | Skills |
+|---|---|
+| 📱 **Mobile Development** | Flutter, Dart, GetX, Bloc (State Management) |
+| ☁️ **Backend & Cloud** | Firebase (Auth, Firestore, Cloud Functions) |
+| 🔌 **Third-Party Integrations** | Agora SDK, Google Maps API, bKash SDK, SSLCOMMERZ, Stripe, Facebook SDK |
+| 🎨 **UI/UX & Design** | Figma, Responsive UI, Clean Architecture |
+| 🔧 **Version Control & Collaboration** | GitHub, GitLab, Jira, ClickUp |
+| 🚀 **Deployment & Distribution** | Google Play Console, App Store Connect |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,androidstudio,apple,git,figma,html,css&theme=dark" alt="Tech stack" />
+
+</div>
+
+---
+
+## 🚀 Key Projects (Published on Play Store & App Store)
+
+<div align="center">
+
+```mermaid
+pie showData
+    title Published Apps by Platform
+    "Android Only" : 4
+    "iOS Only" : 1
+    "Android + iOS" : 1
+    "Not Public Link" : 2
+```
+
+</div>
 
 | App | Description | Links |
 |---|---|---|
@@ -53,23 +131,29 @@ Flutter Mobile Application Developer with 4+ years of experience building and sh
 | **Distributor** | Distributor Onboarding & Stock Tracking | [Android](https://play.google.com/store/apps/details?id=com.limerickbd.distributor) |
 | **BDDoctor** | Doctor & Hospital Finder with Geo-search | [Android](https://play.google.com/store/apps/details?id=com.bddoctor.bdboctor) |
 
-### Education
+---
 
-- **B.Sc. in Software Engineering** — Daffodil International University · 2022 · GPA 3.52
-- **Higher Secondary Certificate (Science)** — Jashore Shikkha Board · 2018 · GPA 3.67
-- **Secondary School Certificate (Science)** — Manirampur, Jashore · 2016 · GPA 4.67
+## 🎓 Education
 
-### Training & Certifications
+```
+🎓  B.Sc. in Software Engineering — Daffodil International University · 2022 · GPA 3.52
+🏫  Higher Secondary Certificate (Science) — Jashore Shikkha Board · 2018 · GPA 3.67
+🏫  Secondary School Certificate (Science) — Manirampur, Jashore · 2016 · GPA 4.67
+```
 
-- Mobile Application Development Courses — BASIS-SEIP Project, Kawran Bazar, Dhaka
-- Flutter & Dart – The Complete Guide (Udemy)
-- Flutter BLoC (Udemy)
-- CCNA — American International University Bangladesh
+## 📜 Training & Certifications
+
+- ✅ Mobile Application Development Courses — BASIS-SEIP Project, Kawran Bazar, Dhaka
+- ✅ Flutter & Dart – The Complete Guide (Udemy)
+- ✅ Flutter BLoC (Udemy)
+- ✅ CCNA — American International University Bangladesh
 
 ---
 
 <div align="center">
 
-📍 Mohammadpur, Dhaka, Bangladesh
+📍 **Mohammadpur, Dhaka, Bangladesh**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>

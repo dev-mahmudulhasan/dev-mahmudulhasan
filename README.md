@@ -14,6 +14,10 @@ I design and build mobile apps, websites, and custom software for businesses tha
 
 ---
 
+### Currently
+
+🔭 Building and maintaining **AppSmith Mahmudul** — my business website, with a working contact form, project case studies, and ongoing SEO improvements.
+
 ### What I Do
 
 - 📱 **Cross-Platform App Development** — Android & iOS apps from a single Flutter codebase

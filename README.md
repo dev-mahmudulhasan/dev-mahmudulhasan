@@ -12,26 +12,26 @@
 Software Engineer (Mobile) at **Analyzen Bangladesh Limited**. I build Flutter apps end to end, from architecture and state management to payment integrations and store releases, and the Laravel + React admin panels behind them when a product needs one.
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Experience"/>
+  <img src="experience.svg" width="100%" alt="Experience"/>
 </p>
 
 ### Selected Work
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=app.ourcreed.shop"><img src="assets/project-creed.svg" width="49%" alt="Creed"/></a>
-  <a href="https://apps.apple.com/us/app/nafs-cart-e-commerce/id6756256618"><img src="assets/project-nafs-cart.svg" width="49%" alt="Nafs Cart"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.order.wala.app"><img src="assets/project-orderwala.svg" width="49%" alt="OrderWala"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.limerickbd.dsr_so_app"><img src="assets/project-dsr-mdo.svg" width="49%" alt="DSR MDO"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.limerickbd.distributor"><img src="assets/project-distributor.svg" width="49%" alt="Distributor"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.bddoctor.bdboctor"><img src="assets/project-bddoctor.svg" width="49%" alt="BDDoctor"/></a>
-  <img src="assets/project-boichitro.svg" width="49%" alt="Boichitro"/>
-  <img src="assets/project-hrm.svg" width="49%" alt="HRM"/>
+  <a href="https://play.google.com/store/apps/details?id=app.ourcreed.shop"><img src="project-creed.svg" width="49%" alt="Creed"/></a>
+  <a href="https://apps.apple.com/us/app/nafs-cart-e-commerce/id6756256618"><img src="project-nafs-cart.svg" width="49%" alt="Nafs Cart"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.order.wala.app"><img src="project-orderwala.svg" width="49%" alt="OrderWala"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.limerickbd.dsr_so_app"><img src="project-dsr-mdo.svg" width="49%" alt="DSR MDO"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.limerickbd.distributor"><img src="project-distributor.svg" width="49%" alt="Distributor"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bddoctor.bdboctor"><img src="project-bddoctor.svg" width="49%" alt="BDDoctor"/></a>
+  <img src="project-boichitro.svg" width="49%" alt="Boichitro"/>
+  <img src="project-hrm.svg" width="49%" alt="HRM"/>
 </p>
 
 <p align="center"><sub>Creed is also on the <a href="https://apps.apple.com/us/app/creed-muslim-commerce-platform/id6747739980">App Store</a>.</sub></p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Tech stack"/>
+  <img src="stack.svg" width="100%" alt="Tech stack"/>
 </p>
 
 ### Activity

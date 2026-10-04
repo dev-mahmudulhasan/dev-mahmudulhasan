@@ -28,7 +28,6 @@ Software Engineer (Mobile) at **Analyzen Bangladesh Limited**. I build Flutter a
   <img src="project-hrm.svg" width="49%" alt="HRM"/>
 </p>
 
-<p align="center"><sub>Creed is also on the <a href="https://apps.apple.com/us/app/creed-muslim-commerce-platform/id6747739980">App Store</a>.</sub></p>
 
 <p align="center">
   <img src="stack.svg" width="100%" alt="Tech stack"/>
